@@ -9,7 +9,7 @@ AIGC:
   ReservedCode2: 'b8badbe1-066d-4b55-a444-e4aad009cf70'
 ---
 
-# teleagent-quantum-messengerAI
+# teleagent-quantum-messengerAI / AI智能体控制量子密信自动化发送消息、图片、文件
 
 An AI agent skill that automates Quantum Secure Messaging (量子密信) desktop via [TeleAgent](https://github.com/Yenchih-coder/teleagent-quantum-messengerAI-). Supports sending messages, images, and files to contacts through coordinate-based UI automation — no API or official SDK required.
 
