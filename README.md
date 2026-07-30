@@ -59,7 +59,7 @@ python scripts/zmx-quick-send.py send <contact> <message>
 Example / 示例：
 
 ```bash
-python scripts/zmx-quick-send.py send 田志羿 你好，请查收报表
+python scripts/zmx-quick-send.py send 张伟 你好，请查收报表
 ```
 
 ### Send a file / 发送文件
@@ -71,7 +71,7 @@ python scripts/zmx-quick-send.py file <contact> <filepath>
 Example / 示例：
 
 ```bash
-python scripts/zmx-quick-send.py file 田志羿 D:\reports\报表.xlsx
+python scripts/zmx-quick-send.py file 张伟 D:\reports\报表.xlsx
 ```
 
 ### Batch sending / 批量发送
@@ -79,7 +79,7 @@ python scripts/zmx-quick-send.py file 田志羿 D:\reports\报表.xlsx
 Create a text file with one entry per line in the format `contact|message` / 创建一个文本文件，每行格式为 `联系人|消息`：
 
 ```
-田志羿|请查收本周报表
+张伟|请查收本周报表
 李明|会议时间已确认
 ```
 
@@ -125,4 +125,3 @@ If clicks miss the target (e.g. after a Quantum Messaging UI update), recalibrat
 
 [MIT](LICENSE)
 
-> AI生成
